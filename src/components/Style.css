@@ -1,0 +1,135 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+nav {
+  background-color: #12406f;
+  color: #fff;
+}
+nav a {
+  color: #fff;
+}
+nav a:hover {
+  color: red;
+}
+.viewbackimg {
+  background-image: url("../images/architecture.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+.firstcard {
+  background-color: #54a0d4;
+  color: #fff;
+}
+
+.secondcard {
+  background-color: #0a72b9;
+  color: #fff;
+}
+
+.thirdcard {
+  background-color: #12406f;
+  color: #fff;
+}
+
+.calendercard {
+  background-image: url("../images/upcom.jpg");
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  color: #fff;
+}
+
+.calendercardtwo {
+  background-image: url("../images//bests.jpg");
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.calendercardtwo:hover {
+  background-image: url("../images/upcom.jpg");
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  animation: fadeBackground 6s;
+  animation-fill-mode: forwards;
+  color: #fff;
+}
+
+.bggray {
+  background-color: #f6f6f6;
+  margin-bottom: 30px;
+}
+
+.paracolor {
+  color: #40658a;
+}
+
+.secondchart {
+  background-image: url("../images/chart2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 200px;
+}
+
+.roundcircle {
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.roundcircle img {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.calenderpic img {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  width: 110px;
+}
+
+.calenderimg img {
+  width: 150px;
+}
+
+.animatepic {
+  background-color: #f5f7fb;
+}
+
+.subscription {
+  background-image: url("../images/officework2.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  width: 550px;
+  height: 300px;
+}
+
+.footerimg {
+  background-image: url("../images/footer1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color: #fff;
+}
+
+.socialicon {
+  padding: 20px;
+  font-size: 24px;
+  text-align: center;
+}
+
+.footerbackground {
+  background-image: url("../images/chart2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color: #fff;
+}
+
+.slideimg {
+  background-image: url("../images/chart.jpg");
+  border-radius: 10px;
+}
